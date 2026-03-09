@@ -81,7 +81,7 @@ Contiene la clase Meta y las funciones relacionadas con la creación y seguimien
   
 
 ## Ejecución del sistema
-ara ejecutar el sistema: main. java. Este archivo controla el flujo del sistema.
+Para ejecutar el sistema: main. java. Este archivo controla el flujo del sistema.
 
 
 ## Autora
