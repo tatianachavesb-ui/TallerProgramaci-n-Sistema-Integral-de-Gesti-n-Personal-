@@ -84,10 +84,5 @@ Contiene la clase Meta y las funciones relacionadas con la creación y seguimien
 ara ejecutar el sistema: main. java. Este archivo controla el flujo del sistema.
 
 
-## Autor
-Karen Tatiana Chaves Bonilla
-
-
-##
 ## Autora
 Karen Tatiana Chaves Bonilla
