@@ -1,1 +1,1 @@
-# TallerProgramaci-n-Sistema-Integral-de-Gesti-n-Personal-
+# Sistema-Integral-de-Gesti-n-Personal-
