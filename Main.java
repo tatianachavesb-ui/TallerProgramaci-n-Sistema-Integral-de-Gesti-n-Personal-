@@ -30,7 +30,7 @@ public class Main {
         }
       }
       else{
-        
+        System.out.println("\n-- Usuario: "+ Usuario.usuarioActivo.nombre+ "--");
         System.out.println("1. Registrar Ingreso");
         System.out.println("2. Registrar Gastos");
         System.out.println("3. Ver Balance");
