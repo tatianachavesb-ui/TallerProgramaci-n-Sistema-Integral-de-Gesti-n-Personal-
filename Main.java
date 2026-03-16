@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        Finanzas finanzas = new Finanzas();
-        Tareas tareas = new Tareas();
-        Metas metas = new Metas();
+        Scanner sc=new Scanner(System.in);
+        Finanzas finanzas=new Finanzas();
+        Tareas tareas=new Tareas();
+        Metas metas=new Metas();
 
       int opcion;
       System.out.println( "  GESTION PERSONAL ");
