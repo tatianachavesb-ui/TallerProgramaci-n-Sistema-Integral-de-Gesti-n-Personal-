@@ -34,7 +34,18 @@ public class Usuario{
     System.out.print("Contraseña: ");
     String con=sc.nextLine();
 
-    
-  } 
-  
+    for(Usuario u:listaUsuario){
+      if(u.email.equals(em)&& u.contraseña.equals(con)){
+        usuarioActivo=u;
+        System.out.println("Bienvenido"+ u.nombre );
+        return true;
+      }
+    }
+    System.out.println("Email o contraseña incorrectos");
+    return false;
+  }   
+  public static void cerrarSesion(){
+    usuarioActivo=null;
+    System.out.println("Sesion cerrada")
+  }
 }
